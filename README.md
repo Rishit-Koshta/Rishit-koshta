@@ -24,4 +24,4 @@
 
 ## Connect With Me
 LinkedIn: (link)
-Email: (email)
+Email: koshtarishit@gmail.com

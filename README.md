@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Rishit Koshta
 
-<!--
-**Rishit-Koshta/Rishit-koshta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student   
+🌱 Currently learning DSA, System Design & Full Stack Development  
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- Data Structures & Algorithms
+- Spring Boot
+- React
+- System Design
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Solving DSA problems daily
+- Building backend systems with Spring Boot
+- Learning scalable system design
+
+## Projects
+- Hotel Booking System (Spring Boot)
+- Portfolio Website
+- Finance Tracker
+- Machine Learning Algorithms
+
+## Connect With Me
+LinkedIn: (link)
+Email: (email)
